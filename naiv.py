@@ -99,4 +99,4 @@ print("-----------------------Result----------------------------------------")
 if(probablity_yesClass > probablity_noClass):
     print(" hence the tuple belongs to yes class therefore user will buy computer")
 else:
-    print("Hence the tuple belongs to no class therefore user will not buy computer")
+    print("Hence the tuple belongs to no class hence user will not buy computer")
